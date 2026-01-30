@@ -11,6 +11,7 @@ the focus is on identifying risk patterns rather than prediction.
 - Records: 51,336 customers
 - Features: Credit exposure, loan mix, missed payments, credit age
 - No target variable available
+- Dataset Website:- "https://www.kaggle.com/code/mafayed/credit-risk-analysis"
 
 ## Methodology
 - Data cleaning and preprocessing
